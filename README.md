@@ -1,5 +1,7 @@
 # NLP
 
+Team Members :- Lakshya Kumar(153050051) & Arpan Somani(153050014)
+
 This directory contains the Part of Speech Tagger developed by Lakshya and Arpan (IIT Bombay M.Tech CSE Students)
 
 There are 3 folders that contain training model , Tagger and Testing.
